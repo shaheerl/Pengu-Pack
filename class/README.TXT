@@ -1,12 +1,17 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+
+PROJECT TITLE: Pengu Pack
+PURPOSE OF PROJECT: Java game created for final project
+VERSION or DATE: June 2018
+HOW TO START THIS PROJECT: 
+1. Download all files in repository
+2. Launch Greenfoot (if you do not have it installed, please do so)
+3. In greenfoot, go to Files -> Open Project 
+4. Select the class file and click ok
+5. Insert images and sounds into project file
+6. Click run!
+AUTHORS: Shaheer Lone
+USER INSTRUCTIONS: Instructions of how to play are presented on game homescreen
+
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
