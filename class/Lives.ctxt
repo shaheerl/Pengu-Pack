@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lives
+comment1.params=
+comment1.target=Lives()
+comment2.params=lost
+comment2.target=void\ livesRemaining(int)
+numComments=3
