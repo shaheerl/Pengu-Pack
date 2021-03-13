@@ -3,11 +3,7 @@ This is a Java game I created in 2018 for my final project in my computer scienc
 
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Pengu Pack
-
-PURPOSE OF PROJECT: Java game created for final project
-
-VERSION or DATE: June 2018
+VERSION: June 2018
 
 AUTHORS: Shaheer Lone
 
