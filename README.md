@@ -7,7 +7,7 @@ VERSION: June 2018
 
 AUTHORS: Shaheer Lone
 
-USER INSTRUCTIONS: Instructions of how to play are presented on game homescreen:
+Instructions of how to play are presented on game homescreen:
 
 ![Pengu Pack Homescreen](images/Computer%20Science%20Starting%20Screen_.png) 
 
